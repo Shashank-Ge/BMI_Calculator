@@ -38,7 +38,7 @@ Responsive design for seamless experience on different devices
 <li> Clone the repository:</li> 
 
 bash
-git clone https://github.com/your-username/BMI-calculator.git
+git clone https://github.com/Shashank-Ge/BMI_Calculator.git
 cd BMI-calculator
 Open the project:
 
